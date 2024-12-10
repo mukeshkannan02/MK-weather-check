@@ -14,7 +14,6 @@ A simple and elegant web application that provides real-time weather updates for
 
 ## Screenshots 📸
 
-_Include screenshots or GIFs of your app in action here!_
 ![Preview](/images/search-screenshot.PNG)
 ![Preview](/images/fullbody-screenshot.PNG)
 ![Demo video](/images/demo.gif)
@@ -51,13 +50,13 @@ const apiKey = 'YOUR_API_KEY';
 
 
 
-Contributions 🤝
+## Contributions 🤝
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-License 📜
+## License 📜
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Acknowledgments 💡
+## Acknowledgments 💡
 OpenWeather API for providing the weather data.
 Inspiration: Your love for weather updates and clean user interfaces!
 
